@@ -14,7 +14,7 @@ You can install `ggGSS` with:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("simaxwell/ggGSS")
+devtools::install_github("forestresearch/ggGSS")
 ```
 
 ## Functions
